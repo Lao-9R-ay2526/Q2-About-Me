@@ -1,0 +1,27 @@
+body{ 
+ background-image: url(texture4.jpg);
+
+    
+}
+
+.hero-image {
+    background-image: url(gradient5.jpg);
+    width: 100%;
+
+    
+
+}
+
+.box {
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+border-radius: 34px 34px 34px 34px;
+-webkit-border-radius: 34px 34px 34px 34px;
+-moz-border-radius: 34px 34px 34px 34px;
+
+}
+
+.
+
+
